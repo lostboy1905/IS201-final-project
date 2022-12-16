@@ -1,0 +1,84 @@
+.bold {
+    font-weight: bold;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.date {
+    color: gray;
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.bullet {
+    font-size: 18px;
+    font-weight: normal;
+}
+
+.orderedlist {
+    font-size: 25px;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.alignRight {
+    text-align: right;
+}
+
+.white {
+    color: white;
+}
+
+.positionCrypto {
+    position: absolute;
+    top: 100px;
+    right: 50px;
+    left: 800px;
+    width: 400px;
+    height: 200px;
+    }
+
+.positionTableau {
+    position: relative;
+    top: 750px;
+    height: 700px;
+}
+
+.positionBitcoin {
+    position: absolute;
+    top: 75px;
+    left: 75px;
+    max-width: 375px;
+    height: 350px;
+}
+
+.toTop {
+    font-size: 15px;
+    color: rgb(29, 29, 255);
+    position: fixed;
+    bottom: 0px;
+    left: 5px;
+}
+
+.positionYoutube {
+    position: absolute;
+    top: 450px;
+    left: 100px;
+}
+
+.positionNavbar {
+    position: relative;
+}
+
+.tabHeading {
+    position: absolute;
+    top: 800px;
+    left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: underline;
+    color: whitesmoke;
+}
